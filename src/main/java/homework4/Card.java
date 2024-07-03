@@ -6,6 +6,7 @@ public class Card {
    private String cvv;
    private String pinCode;
 
+
     public Card(String number, String date, String cvv, String pinCode) {
         this.number = number;
         this.date = date;

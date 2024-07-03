@@ -5,6 +5,7 @@ public class MyProgram {
 
         Card myCard = new Card("454546626256666", "12.24", "343", "4791");
 
+
         myCard.MaskedCardNumber(myCard.getNumber());
         myCard.checkPinCode("9899");
     }
