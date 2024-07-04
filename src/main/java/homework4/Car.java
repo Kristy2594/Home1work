@@ -2,7 +2,7 @@ package homework4;
 
 public class Car {
      String color;
-     int currentSpeed ;
+     int currentSpeed;
      String brand;
 
 
